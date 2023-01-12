@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669986691511",
+    "project_id": "phonerecorder-59e57",
+    "storage_bucket": "phonerecorder-59e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669986691511:android:a7003138c8252e6748f032",
+        "android_client_info": {
+          "package_name": "com.application.phonerecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669986691511-l0ftbdnp458vifk9fvvq64kdukc2teat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDviks7bOAIBIJEPpbGvNv9Cutrp3wEBxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669986691511-l0ftbdnp458vifk9fvvq64kdukc2teat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
